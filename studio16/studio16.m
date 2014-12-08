@@ -17,7 +17,6 @@ if diagpdp ~= A
         disp('A is not equal to PDP^-1')
     else
         disp('A is equal to PDP^-1')
-        
     end
 x = A(:,1);
 y = A(:,2);
